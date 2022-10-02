@@ -1,8 +1,5 @@
--Hi, I’m @mana1a
--I’m interested in learning to code videogames & websites
--I’m currently learning neither
--I’m looking to collaborate on nothing, I don't like teams
--Don't email me, please
+- Hi, I'm maniac
+- I'm just on here because I need code for my class
 
 <!---
 mana1a/mana1a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
